@@ -19,5 +19,4 @@ I run **Constringo**, a one-man business providing hosting and related technical
 - **Scripting**  
   Selenium, Bash, etc. Anything that automates tasks.
 
-If you need someone for your next big product, email me or visit:  
-**https://constringo.com**
+If you need someone for your next big product, email me or visit: **https://constringo.com**
