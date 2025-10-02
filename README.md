@@ -12,7 +12,7 @@ I run **Constringo**, a one-man business providing hosting and related technical
 - **Systems Programming**  
   Working close to the hardware: operating systems, memory, concurrency, threading, and tooling.
 
-- **Web Hosting**
+- **Web Hosting & Server management**
 - **Web Development & Design**  
   Designing and building websites, managing databases, all with user experience in mind.
 
