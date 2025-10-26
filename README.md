@@ -1,5 +1,8 @@
 I run **Constringo**, a one-man business providing hosting and related technical services. I build things that are fast and reliable, not flashy and slow.
 
+- **Web Scraping**
+  Writing cream of the crop scrapers able to extract data efficiently and organized. Using various techniques and tools (Selenium, Thirtyfour).
+  
 - **Networking**  
   Elaborate work with network stacks, protocols, and infrastructure.
 
@@ -16,7 +19,5 @@ I run **Constringo**, a one-man business providing hosting and related technical
 - **Web Development & Design**  
   Designing and building websites, managing databases, all with user experience in mind.
 
-- **Scripting**  
-  Selenium, Bash, etc. Anything that automates tasks.
 
 If you need someone for your next big product, email me or visit: **https://constringo.com**
