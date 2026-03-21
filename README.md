@@ -12,7 +12,7 @@
 <br>
 
 ```
-making opps mad since the big 2026
+making them mad since the big 2026
 ```
 
 <br>
