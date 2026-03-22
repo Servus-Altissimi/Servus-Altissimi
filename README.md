@@ -4,8 +4,10 @@
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=flat-square&logo=webassembly&logoColor=white)
-![WebGPU](https://img.shields.io/badge/WebGPU-333333?style=flat-square&logo=googlechrome&logoColor=white)
+![WebGPU](https://img.shields.io/badge/WebGPU-333333?style=flat-square&logo=webgpu&logoColor=white)
 ![FreeBSD](https://img.shields.io/badge/FreeBSD-AB2B28?style=flat-square&logo=freebsd&logoColor=white)
+![Haiku](https://img.shields.io/badge/Haiku-2BAB28?style=flat-square&logo=leaflet&logoColor=white)
+
 
 </div>
 
