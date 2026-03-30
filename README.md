@@ -11,14 +11,6 @@
 
 </div>
 
-<br>
-
-```
-making them mad since the big 2026
-```
-
-<br>
-
 <div align="center">
 
 ### things I work on
@@ -41,10 +33,8 @@ making them mad since the big 2026
 
 <br>
 
-### stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=servus-altissimi&show_icons=true&theme=transparent&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=servus-altissimi&layout=compact&theme=transparent&hide_border=true)
+[](https://github-readme-stats.vercel.app/api?username=servus-altissimi&show_icons=true&theme=transparent&hide_border=true)
+[](https://github-readme-stats.vercel.app/api/top-langs/?username=servus-altissimi&layout=compact&theme=transparent&hide_border=true)
 
 <br>
 
