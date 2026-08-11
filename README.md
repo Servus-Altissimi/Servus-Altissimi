@@ -15,8 +15,8 @@
 
 | | |
 |---|---|
-| <img src="icons/web.svg" width="17" align="top"> web | production Django and React systems, deployed and operated; Dioxus and WebAssembly frontends |
-| <img src="icons/security.svg" width="17" align="top"> security | black-box application testing, written findings |
+| <img src="icons/web.svg" width="17" align="top"> web | production Django and React systems, deploying and operating; Dioxus and WebAssembly frontends |
+| <img src="icons/security.svg" width="17" align="top"> security | black-box application testing |
 | <img src="icons/graphics.svg" width="17" align="top"> graphics | real-time GPU pipelines, shader editors, WebGPU |
 | <img src="icons/audio.svg" width="17" align="top"> audio | synthesis engines, DSP effect chains, reverb, filters, ADSR |
 | <img src="icons/systems.svg" width="17" align="top"> systems | OS-level utilities for FreeBSD and Haiku |
